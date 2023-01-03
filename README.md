@@ -36,61 +36,73 @@ IMPARES
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e1.png)
 
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e2.png)
 
 5. Evalúe cada uno de los determinantes:
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e3.png)
 
 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e4.png)
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e5.png)
 
 **SECCIÓN 9–2 Método de la corriente en ramas**
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e6.png)
 
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e7.png)
 
 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B). 
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e8.png)
 
 **SECCIÓN 9–3 Método de la corriente en lazos**
 
 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e9.png)
 
 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 
-
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e10.png)
 
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
 
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e11.png)
+
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e12.png)
+
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31. 
+
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e13.png)
 
 **SECCIÓN 9–4 Método del voltaje en nodos**
 
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente. 
 
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e14.png)
+
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e15.png)
+
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
+
+![](https://github.com/melaniegutierrez/CAP-TAR-5/blob/main/e16.png)
 
 ### CAPITULO 10
 
@@ -100,7 +112,11 @@ IMPARES
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
+Disminuye
+
 3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 3 1026 T y el área de sección transversal mide 150 cm2?
+
+
 
 5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss. 
 
