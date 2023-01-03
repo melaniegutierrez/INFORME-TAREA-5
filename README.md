@@ -198,8 +198,4 @@ Link:
 - Método de corriente de rama - La fisica y quimica. (2019, August 13). La Fisica Y Quimica. https://lafisicayquimica.com/metodo-de-corriente-de-rama/#:~:text=La%20primera%20y%20m%C3%A1s%20directa,leyes%20de%20Kirchhoff%20y%20Ohm’s%20.
 
 - Khan Academy. (2023). Khanacademy.org. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method#:~:text=El%20m%C3%A9todo%20de%20corriente%20de,de%20las%20manecillas%20del%20reloj).
-
-‌- Khan Academy. (2023). Khanacademy.org. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method#:~:text=El%20m%C3%A9todo%20del%20voltaje%20en%20los%20nodos%20divide%20el%20an%C3%A1lisis,conectada%20al%20nodo%20de%20referencia.
-
-‌
 ‌
