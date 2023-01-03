@@ -188,7 +188,7 @@ Link:
 
 - Los métodos de analisis de circuitos se pueden utilizar en cualquier circuito y ademas se puede utilizar cualquier metodos, es decir que podemos usar lo metodos s a nuestra conveniencia para facilitar calculos y obtener los resultados analíticos correctamente.  
 
--Es necesario saber identificar los tipos de nodos ademas de las direcciones y polaridades que tendrias tanto resistencias como fuentes de voltaje, es muy importante esto para cualquiera de los tres metodos de analisis debido a que se tienen que plantear ecuaciones en las cuales los signos de polaridad influyen mucho en el analisis analitico y en los calculos teoricos.
+- Es necesario saber identificar los tipos de nodos ademas de las direcciones y polaridades que tendrias tanto resistencias como fuentes de voltaje, es muy importante esto para cualquiera de los tres metodos de analisis debido a que se tienen que plantear ecuaciones en las cuales los signos de polaridad influyen mucho en el analisis analitico y en los calculos teoricos.
 
 - El electromagnetismo es de gran complemento al estudio de la electronica y electricidad debido a que amplia la gama de aplicaciones y la relacion entre estos dos campos abre puertas a analisis mas detallads de circuitos, ademas de que los circuitos magneticos presentan una gran analogia con respecto a los circuitos electricos.
 
