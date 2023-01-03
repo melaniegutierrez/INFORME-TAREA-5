@@ -182,7 +182,7 @@ El propósito de estos elementos es conectar la espira al circuito externo
 
 ## 4. VIDEO
 
-Link:
+Link: https://youtu.be/nYUaXMUeFS8
 
 ## 5. CONCLUSIONES
 
